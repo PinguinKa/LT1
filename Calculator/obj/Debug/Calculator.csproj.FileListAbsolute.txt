@@ -1,0 +1,8 @@
+D:\ystu\programming_technologies\LT1\Calculator\bin\Debug\Calculator.exe.config
+D:\ystu\programming_technologies\LT1\Calculator\bin\Debug\Calculator.exe
+D:\ystu\programming_technologies\LT1\Calculator\bin\Debug\Calculator.pdb
+D:\ystu\programming_technologies\LT1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\ystu\programming_technologies\LT1\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\ystu\programming_technologies\LT1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\ystu\programming_technologies\LT1\Calculator\obj\Debug\Calculator.exe
+D:\ystu\programming_technologies\LT1\Calculator\obj\Debug\Calculator.pdb

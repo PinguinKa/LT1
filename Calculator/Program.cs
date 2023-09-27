@@ -21,17 +21,20 @@ namespace Calculator
             switch (op)
             {
                 case '+':
-                    Console.WriteLine(num1 + num2);
+                    Console.WriteLine("{0}+{1}={2}", num1, num2, num1 + num2);
                     break;
                 case '-':
-                    Console.WriteLine(num1 - num2);
+                    Console.WriteLine("{0}-{1}={2}", num1, num2, num1 - num2);
                     break;
                 case '*':
-                    Console.WriteLine(num1 * num2);
+                    Console.WriteLine("{0}*{1}={2}", num1, num2, num1 * num2);
                     break;
                 case '/':
                     if (num2 == 0) Console.WriteLine("Division by zero");
-                    else Console.WriteLine(num1 / num2);
+                    else Console.WriteLine("{0}/{1}={2}", num1 / num2);
+                    break;
+                default:
+                    Console.WriteLine("Error");
                     break;
             }
             Console.ReadLine();
